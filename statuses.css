@@ -1,0 +1,7 @@
+*[warn] {
+  color: #ff0;
+}
+
+*[fatal] {
+  color: #f00;
+}
