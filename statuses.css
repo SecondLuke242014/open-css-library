@@ -5,3 +5,7 @@
 *[fatal] {
   color: #f00;
 }
+
+*[info] {
+  color: #0ff;
+}
